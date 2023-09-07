@@ -1,4 +1,30 @@
 * {
   margin: 0;
-  padding: 0;    
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7em;    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#navbar {
+    color: white;
+    overflow: auto;
+    justify-content: center;
+}
+
+#navbar a {
+    color: #fff;
+
+} 
+
+#navbar h2 {
+    float:
 }
