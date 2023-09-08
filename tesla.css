@@ -6,7 +6,8 @@
 
 html, body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.7em;    
+  line-height: 1.7em; 
+  height: 100%;   
 }
 
 a{
@@ -15,8 +16,8 @@ a{
 }
 
 #navbar {
-    background: lightslategray;
-    color: #fff;
+    background: white;
+    color: gray;
     overflow: auto;
 }
 
@@ -27,6 +28,7 @@ a{
 
 #navbar ul {
     list-style: none;
+    padding-left: 550PX ;
 }
 
 #navbar ul li {
@@ -41,4 +43,9 @@ a{
 
 #navbar ul li a:hover {
     color: #fff;
+}
+
+#img {
+    background-image: "/Users/ynon/Desktop/tesla/images/model-3-exterior-left-front-three-quarter.webp;"
+       
 }
