@@ -9,3 +9,36 @@ html, body {
   line-height: 1.7em;    
 }
 
+a{
+    float: none;
+   
+}
+
+#navbar {
+    background: lightslategray;
+    color: #fff;
+    overflow: auto;
+}
+
+#navbar h2 {
+    float: left;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    list-style: none;
+}
+
+#navbar ul li {
+    float: left;
+}
+
+#navbar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+#navbar ul li a:hover {
+    color: #fff;
+}
