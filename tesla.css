@@ -9,34 +9,3 @@ html, body {
   line-height: 1.7em;    
 }
 
-a {
-    color: white;
-    text-decoration: none;
-}
-
-#navbar {
-    color: white;
-    overflow: auto;
-    justify-content: center;
-}
-
-#navbar a {
-    color: #fff;
-
-} 
-
-#navbar h2 {
-    float: left;
-    padding-top: 20px;
-}
-
-#navbar ul {
-    list-style: none;
-    float: none;
-}
-
-#navbar ul li a {
-    display: block;
-    padding: 20px;
-    text-align: center;
-}
