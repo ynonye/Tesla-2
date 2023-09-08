@@ -19,6 +19,7 @@ a{
     background: white;
     color: gray;
     overflow: auto;
+    background: transparent;
 }
 
 #navbar h2 {
@@ -54,6 +55,11 @@ a{
     position: absolute;
     padding-left: 750px;
     padding-top: 85px;    
+    text-align: center;
+}
+h4 {
+    width: 400px;
+    margin: auto;
     text-align: center;
 }
 
