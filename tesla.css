@@ -10,11 +10,18 @@ html, body {
   height: 100%;   
 }
 
+ul {
+    list-style: none;
+}
 a{
     float: none;
-   
 }
 
+img {
+    width: 400px;
+    margin-top: 400px;
+
+}
 #navbar {
     background: white;
     color: gray;
